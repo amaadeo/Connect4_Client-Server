@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<server>
+	<host>localhost</host>
+	<port>8090</port>
+</server>
